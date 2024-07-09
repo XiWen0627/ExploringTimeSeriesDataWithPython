@@ -40,7 +40,7 @@ This note book contains material to help you learn how to unravel data structure
 
 **https://github.com/XiWen0627/ExploringTimeSeriesDataWithPython**
 
-The material are in the dictionary.
+The material are in the /data dictionary.
 
 This notebook was constructed using Anaconda 3.8 Python distribution. If you are not running version Anaconda 3.5 or higher, we suggest you update your Anaconda distribution now. You can download the Python 3 Anaconda distribution for your operating system from the corresponding web site.
 
