@@ -4,7 +4,7 @@
 ### Orgnized on July 9，2024
 Time series data have certain characteristics that cross-sectional data do not, and these can require special attention when applying traditional estimators. In this lesson, we will investigate techniques for **Exploratory Analysis of Time Series Data** using an econometrics approach. 
 
-We will utilize several Python packages to model time dependence and explore the characteristics of example data: Statsmodels, Matplotlib, Seaborn, and Pandas Plotting. The code examples in this notebook utilize each of these packages.
+We will utilize several Python packages to model time dependence and explore the characteristics of example data: *Statsmodels*, *Matplotlib*, *Seaborn*, and *Pandas Plotting*. The code examples in this notebook utilize each of these packages.
 
 For this lesson we will be working with two time series datasets.The first dataset describes [the GDP differences of America and Australia across 126 periods](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2009&locations=AU-XU&start=1960), while the second dataset depicts [the minimum daily temperature over a span of 10 years in Melbourne](https://www.kaggle.com/datasets/samfaraday/daily-minimum-temperatures-in-me). **The ultimate goal is to understand the time dependency of target variables, enabling accurate predictions of their future trends.**
 
