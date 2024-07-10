@@ -38,3 +38,6 @@ In this chapter, we begin to delve into the properties of Ordinary Least Square 
 - **Under assumptions MLR.1 - MLR.5** Gauss-Markov Theorem: Best Linear Unbiased Estimators (BLUEs).
 
 - **Under assumptions MLR.1 - MLR.6** Assumptions of the Classical Linear Regression Model (CLRM).
+
+## The Properties of Time Series Data
+In this section, we focus on the properties of time series data to mine the corresponding characteristics when modeling specific phenomena.
