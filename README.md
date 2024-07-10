@@ -10,7 +10,7 @@ For this lesson we will be working with two time series datasets.The first datas
 
 ## Outline
 **1. The nature of time series data**
- - **Features of time series data** 
+ - **Properties of time series data** 
    - Time series data & Cross-sectional data
    - Impact Propensity & Long run propensity
    - Trend & Seasonality
