@@ -1,6 +1,6 @@
 # Exploring Time Series Data With Python
 ### Kezhou Ren
-### Presented at G11 Research Group, June 23, 2023
+### Shared at G11 Research Group, June 23, 2023
 ### Orgnized on July 9，2024
 Time series data have certain characteristics that cross-sectional data do not, and these can require special attention when applying traditional estimators. In this lesson, we will investigate techniques for **Exploratory Analysis of Time Series Data** using an econometrics approach. 
 
