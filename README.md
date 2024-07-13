@@ -11,12 +11,16 @@ For this lesson we will be working with two time series datasets.The first datas
 ## Outline
 **1. The nature of time series data**
  - **Preliminaries: CLRM**
- - **Properties of time series data** 
+ - **Properties of time series data**
    - Time series data & Cross-sectional data
    - Impact Propensity & Long run propensity
    - Trend & Seasonality
-   - Stationary & Non-stationary
- - **Visualizing time seires data with Python**
+   - Stationary & Non-stationary<br>
+ - **Classical Linear Model Assumptions for Time Series Regression**
+
+   
+**2. Visualizing time seires data with Python**
+ - Exploratory data analysis
    - Line Plot
    - Hist Plot & Density Plot
    - Box Plot & Violin Plot
@@ -24,7 +28,7 @@ For this lesson we will be working with two time series datasets.The first datas
    - Lag Plot
    - Autocorrelation Plot 
 
-**2. Models for time series analysis**
+**3. Models for time series analysis**
  - **Stationary univariate time series analysis** 
    - White Noise
    - Autoregressive Model (AR) & Moving Average (MA) Model
