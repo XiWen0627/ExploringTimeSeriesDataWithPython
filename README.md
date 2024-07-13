@@ -20,7 +20,7 @@ For this lesson we will be working with two time series datasets.The first datas
 
    
 **2. Visualizing time seires data with Python**
- - Exploratory data analysis
+ - **Exploratory data analysis**
    - Line Plot
    - Hist Plot & Density Plot
    - Box Plot & Violin Plot
