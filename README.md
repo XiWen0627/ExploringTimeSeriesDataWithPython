@@ -2,6 +2,9 @@
 ### Kezhou Ren
 ### Shared at G11 Research Group, June 23, 2023
 ### Orgnized on July 9，2024
+🔔:Latest Update: Non-stationary Univariate Time Series Analysis
+
+## Introduction
 Time series data have certain characteristics that cross-sectional data do not, and these can require special attention when applying traditional estimators. In this lesson, we will investigate techniques for **Exploratory Analysis of Time Series Data** using an econometrics approach. 
 
 We will utilize several Python packages to model time dependence and explore the properties of example data: *Statsmodels*, *Matplotlib*, *Seaborn*, and *Pandas Plotting*. The code examples in this notebook utilize each of these packages.
