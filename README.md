@@ -9,6 +9,8 @@ We will utilize several Python packages to model time dependence and explore the
 For this lesson we will be working with two time series datasets.The first dataset describes [the GDP fluctuations of America and Australia across 126 periods](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2009&locations=AU-XU&start=1960), while the second dataset depicts [the minimum daily temperature over a span of 10 years in Melbourne](https://www.kaggle.com/datasets/samfaraday/daily-minimum-temperatures-in-me). **The ultimate goal is to understand the time dependency of target variables, enabling accurate predictions of their future trends.**
 
 ## Outline
+**Online Read-only Version**  
+
 [**1. The nature of time series data**](https://nbviewer.org/github/XiWen0627/ExploringTimeSeriesDataWithPython/blob/main/Ch1.NatureofTS.ipynb)
  - **Preliminaries: CLRM**
  - **Properties of time series data**
