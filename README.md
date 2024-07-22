@@ -9,7 +9,7 @@ We will utilize several Python packages to model time dependence and explore the
 For this lesson we will be working with two time series datasets.The first dataset describes [the GDP fluctuations of America and Australia across 126 periods](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2009&locations=AU-XU&start=1960), while the second dataset depicts [the minimum daily temperature over a span of 10 years in Melbourne](https://www.kaggle.com/datasets/samfaraday/daily-minimum-temperatures-in-me). **The ultimate goal is to understand the time dependency of target variables, enabling accurate predictions of their future trends.**
 
 ## Outline
-**1. The nature of time series data**
+[**1. The nature of time series data**](https://nbviewer.org/github/XiWen0627/ExploringTimeSeriesDataWithPython/blob/main/Ch1.NatureofTS.ipynb)
  - **Preliminaries: CLRM**
  - **Properties of time series data**
    - Time series data & Cross-sectional data
@@ -19,7 +19,7 @@ For this lesson we will be working with two time series datasets.The first datas
  - **Classical Linear Model Assumptions for Time Series Regression**
 
    
-**2. Visualizing time seires data with Python**
+[**2. Visualizing time seires data with Python**](https://nbviewer.org/github/XiWen0627/ExploringTimeSeriesDataWithPython/blob/main/Ch2.VisualizeTSwithPython.ipynb)
  - **Exploratory data analysis**
    - Line Plot
    - Hist Plot & Density Plot
@@ -28,7 +28,7 @@ For this lesson we will be working with two time series datasets.The first datas
    - Lag Plot
    - Autocorrelation Plot 
 
-**3. Models for time series analysis**
+[**3. Models for time series analysis**](https://nbviewer.org/github/XiWen0627/ExploringTimeSeriesDataWithPython/blob/main/Ch3.UnivariateTSA.ipynb)
  - **Stationary univariate time series analysis** 
    - White Noise
    - Autoregressive Model (AR) & Moving Average (MA) Model
