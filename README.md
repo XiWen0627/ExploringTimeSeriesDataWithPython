@@ -2,7 +2,7 @@
 ### Kezhou Ren
 ### Shared at G11 Research Group, June 23, 2023
 ### Orgnized on July 9，2024
-🔔:Latest Update: Non-stationary Univariate Time Series Analysis
+🔔Latest Update: Non-stationary Univariate Time Series Analysis
 
 ## Introduction
 Time series data have certain characteristics that cross-sectional data do not, and these can require special attention when applying traditional estimators. In this lesson, we will investigate techniques for **Exploratory Analysis of Time Series Data** using an econometrics approach. 
